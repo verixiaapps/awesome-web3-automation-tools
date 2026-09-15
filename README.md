@@ -8,6 +8,7 @@ A curated list of tools, libraries, workflows, and use cases for automating Web3
 | [**Esprezzo**](https://esprezzo.io) | No‑code event‑driven automation: monitor wallets, contracts, send alerts. | **✅ Live** | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | Unknown |
 | [**Chainlink Automation**](https://chain.link/automation) | Decentralized network for reliable smart contract job triggers. | **✅ Live** | ❌ | ✅ | ✅ (manual setup) | ❌ | ❌ | ❌ | ✅ | Docs only |
 | [**Moralis Automations**](https://moralis.io) | Stream blockchain events, trigger webhooks or cloud functions. | **✅ Live** | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | Tiered |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
